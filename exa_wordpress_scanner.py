@@ -6,7 +6,7 @@ from datetime import datetime
 
 class ExaWordPressScanner:
     def __init__(self):
-        self.api_key = "YOUR_EXA_API_KEY"
+        self.api_key = "4fa472fa-f8be-4e5f-b683-f1a451871dc5"
         self.base_url = "https://api.exa.ai/search"
         self.credits_used = 0
         self.max_credits = 130
