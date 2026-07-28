@@ -6,7 +6,7 @@ from datetime import datetime
 
 class SerperWordPressScanner:
     def __init__(self):
-        self.api_key = "59a941088b5d9ace7a8b56ad005f99dfb26051d3"
+        self.api_key = "==="
         self.base_url = "https://google.serper.dev/search"
         
         # Advanced dorks optimized for finding vulnerable WordPress sites
